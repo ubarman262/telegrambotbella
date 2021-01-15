@@ -1,0 +1,115 @@
+[
+    {
+        "triggers": [
+            "night",
+            "good night",
+            "Good Night"
+        ],
+        "replies": [
+            {
+                "reply": "To you...",
+                "type": "text"
+            },
+            {
+                "reply": "It's time",
+                "type": "text"
+            },
+            {
+                "reply": "Where are you going? The night is still young!",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "good morning",
+            "morning"
+        ],
+        "replies": [
+            {
+                "reply": "./media/audio/sun_in_the_sky.mp3",
+                "type": "audio"
+            },
+            {
+                "reply": "./media/audio/new_dawn_new_day.mp3",
+                "type": "audio"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "haha",
+            "hahaha",
+            "ahah",
+            "ahahaha"
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/kid_laughing_meme.jpg",
+                "type": "image"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "party"
+        ],
+        "replies": [
+            {
+                "reply": "./media/images/party_girl.gif",
+                "type": "image"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "hi bella",
+            "hey bella",
+            "hello bella",
+            "sup bella",
+            "how you doing bella"
+        ],
+        "replies": [
+            {
+                "reply": "Nice to meet you.",
+                "type": "greetings"
+            },
+            {
+                "reply": "SUP?",
+                "type": "greetings"
+            },
+            {
+                "reply": "How have you been?",
+                "type": "greetings"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "Find me a girlfriend",
+            "find me a girl"
+        ],
+        "replies": [
+            {
+                "reply": "What's the point? You are Gay!",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "boobs",
+            "boob",
+            "boobies",
+            "titties",
+            "tits"
+        ],
+        "replies": [
+            {
+                "reply": "https://pyxis.nymag.com/v1/imgs/339/eaa/83266af01367f4fe4c218debb63621b1c3-25-man-boobs.rsquare.w700.jpg",
+                "type": "image"
+            }
+        ]
+    }
+
+]
