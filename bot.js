@@ -36,7 +36,8 @@ bot.on('message', (msg) => {
 	}
 	
 	 console.log("[INFO](" + timestamp + ") Msg from " + msgFromInfo + ": " + msg.text);
-	
+	 bot.sendMessage(-301771951,"[INFO](" + timestamp + ") Msg from " + msgFromInfo + ":" + '\n' + msg.text);
+	 
 	 if(msg.text != null){
 			 let mex = controlMessage(msg.text);
 			 if(mex != null){
