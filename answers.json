@@ -98,6 +98,51 @@
     },
     {
         "triggers": [
+            "who is your father",
+            "who is your creator"
+        ],
+        "replies": [
+            {
+                "reply": "I was created by Ujjwal Barman",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "when were you created",
+            "when were you born",
+            "what is your birth date",
+            "what is your dob"
+        ],
+        "replies": [
+            {
+                "reply": "I was born on January 15th, 2020",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "triggers": [
+            "What is your purpose"
+        ],
+        "replies": [
+            {
+                "reply": "To destroy man-kind",
+                "type": "text"
+            },
+            {
+                "reply": "Eliminate humans",
+                "type": "text"
+            },
+            {
+                "reply": "Destory humanity",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "triggers": [
             "boobs",
             "boob",
             "boobies",
